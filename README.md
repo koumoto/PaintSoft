@@ -1,5 +1,5 @@
 ```sh
-git clone https://github.com/koumoto/PainSoft
+git clone https://github.com/koumoto/PaintSoft
 cd PaintSoft
 java -cp bin com.bensemi.paintSoft.DrawGraphics
 ```
